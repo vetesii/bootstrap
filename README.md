@@ -1,4 +1,4 @@
-# [Jasny Bootstrap](http://jasny.github.io/bootstrap/) [![Build Status](https://secure.travis-ci.org/jasny/bootstrap.png)](http://travis-ci.org/jasny/bootstrap)[![devDependency Status](https://david-dm.org/jasny/bootstrap/dev-status.png)](https://david-dm.org/jasny/bootstrap#info=devDependencies)
+# [Jasny Bootstrap](http://jasny.github.io/bootstrap/) ![Bower](https://img.shields.io/bower/v/jasny-bootstrap.svg) [![Build Status](https://secure.travis-ci.org/jasny/bootstrap.png)](http://travis-ci.org/jasny/bootstrap) [![Join the chat at https://gitter.im/jasny/bootstrap](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/jasny/bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Jasny Bootstrap is an extension of the famous [Bootstrap](http://getbootstrap.com/), adding the following components:
 
@@ -20,6 +20,7 @@ Four quick start options are available:
 * Clone the repo: `git clone git://github.com/jasny/bootstrap.git`.
 * Install with [Bower](http://bower.io): `bower install jasny-bootstrap`.
 * Use [cdnjs](http://cdnjs.com/libraries/jasny-bootstrap).
+* Install with [Meteor](https://meteor.com): `meteor add jasny:bootstrap`.
 
 Read the [Getting Started page](http://jasny.github.io/bootstrap/getting-started/) for information on the framework contents, templates and examples, and more.
 
